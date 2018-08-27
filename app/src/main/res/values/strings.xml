@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">recyclerViewExercise</string>
+    <string-array name="title">
+        <item>kuala_lumpur</item>
+        <item>putrajaya</item>
+    </string-array>
+    <string-array name="description">
+        <item>Ibu kota Malaysia. Perlu dilawati</item>
+        <item>Bandar pentadbiran di Malaysia yang tersusun</item>
+    </string-array>
+    <string-array name="pictures">
+        <item>@drawable/kuala_lumpur</item>
+        <item>@drawable/putrajaya</item>
+    </string-array>
+
+</resources>
